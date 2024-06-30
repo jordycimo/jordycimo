@@ -1,1 +1,1 @@
-![](https://media.discordapp.net/attachments/984747521102458883/1171355108416700487/28458348-DA48-4946-BE99-00AAB50B07C7.gif?ex=6681b634&is=668064b4&hm=851b2796404270777303ad79d394353d195690f4a0bb04829c6e87066a712f26&)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
