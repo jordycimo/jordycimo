@@ -12,3 +12,4 @@
   <li>I play bass.</li>
   <li>I also make horribly unsafe things in my garage.</li>
 </ul>
+<h3>Enjoy looking at my awful code! :D</h3>
