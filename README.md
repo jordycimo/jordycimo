@@ -1,5 +1,4 @@
-# Welcome!
-### Bad code ahead!!!
+<h1 align="center">Welcome!!</h1>
 <p align="center">
-![](https://github.com/jordycimo/jordycimo/blob/main/asuca-watamote.gif)
+<img src="https://github.com/jordycimo/jordycimo/blob/main/asuca-watamote.gif">
 </p>
