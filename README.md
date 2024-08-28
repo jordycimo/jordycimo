@@ -1,6 +1,6 @@
 <div id="banner" align="center">
   <h1>Welcome!!</h1>
-  <img src="[https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif]()">
+  <img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif">
 </div>
 <p>I tend to post most of my code here, like school projects or personal ones. Most of my code is really bad so keep that in mind...</p>
 <h3>Stuff about me!!11!!!1!!</h3>
