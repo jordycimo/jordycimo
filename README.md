@@ -1,9 +1,5 @@
 # Welcome to my github page !!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordycimo&label=Profile views&color=0e75b6&style=flat" alt="jordycimo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordycimo" alt="jordycimo" /></a> </p>
-
 - 🔭 I'm currently working on **lunera, linux userspace for i486 cpus**
 
 - 🌱 I'm currently learning **C, bass guitar, getting my money up**
