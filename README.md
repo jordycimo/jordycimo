@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **jordyn.singer28@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://jordycimo.neocities.org/](https://jordycimo.neocities.org/)**
+- 👨‍💻 My personal website is available at **[https://jordycimo.neocities.org/](https://jordycimo.neocities.org/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
