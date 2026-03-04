@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on **lunera, linux userspace for i486 cpus**
 
-- 🌱 I'm currently learning **C, bass guitar, getting my money up**
+- 🌱 I'm currently learning **C, bass guitar, getting bread**
 
 - 👯 I'm looking to collaborate on **anything !!**
 
